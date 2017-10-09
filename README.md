@@ -1,5 +1,5 @@
 # scripts
-JavaScript and other stuff I find useful in various projects
+Scripts and miscellaneous stuff I find useful in various projects, but don't have a really good place for it yet.
 
 The Windows-only scripts, such as WSF, HTA, VBS, BATch, and PowerShell, have mostly been split out to [Quasic/wshta](https://github.com/Quasic/wshta).
 
